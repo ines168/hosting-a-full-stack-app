@@ -6,6 +6,8 @@
 
 - Environmental variables
   ![env-vars](../screenshots/udagram_EB_env-var.JPG)
+  ![env-vars](../screenshots/udagram_CircleCI-env-var.JPG)
+
 - AWS s3 for web hosting
   ![bucket](../screenshots/udagram_S3.JPG)
   ![bucket-front](../screenshots/udagram_S3_front.JPG)
