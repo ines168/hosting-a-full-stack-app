@@ -4,7 +4,7 @@
 - AWS ElasticBeanstalk for the API
 - AWS s3 for web hosting
 
-![infrastructure](infrastructure.JPG)
+![infrastructure](Infrastructure.JPG)
 
 #
 

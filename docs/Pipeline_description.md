@@ -28,4 +28,4 @@ Last successful:
 
 Pipeline diagram:
 
-![pipeline](pipeline.JPG)
+![pipeline](Pipeline_d.JPG)
