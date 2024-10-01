@@ -16,8 +16,16 @@ CircleCI is following the repository on the github for any changes. Commit trigg
   - Install NodeJS and NPM.
   - Setting up Elastic Beanstalk.
   - Setting up AWS cli.
+  - Set Elastic Beanstalk Variables
   - Deploy the API to Elastic Beanstalk.
   - Deploy the Front-End to AWS S3.
 
-  Finished:
-  ![circleci](../screenshots/udagram_CircleCI.JPG)
+Last successful:
+
+![circleci](../screenshots/udagram_CircleCI-last-success.JPG)
+
+###
+
+Pipeline diagram:
+
+![pipeline](pipeline.JPG)
